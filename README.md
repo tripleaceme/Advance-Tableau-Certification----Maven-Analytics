@@ -70,7 +70,7 @@ panes. So if you create a **calculated field involving multiple tables, it will 
         - Remain
         <details>
         <summary>Check Visual</summary>
-        <img src="" alt="Remain" />
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />
         </details>
 
         - Relevant
