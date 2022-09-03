@@ -8,7 +8,7 @@ When you create a data source, it has two layers. The top-level layer is the log
 
 The next layer is the physical layer of the data source. You combine data between tables at the physical layer using joins.
 
-In the newer versions of Tableau, you get the Relationship interface (Logical) by default. However, you can still use the Joins interface (Physical). [Click Here](#new)
+In the newer versions of Tableau, you get the Relationship interface (Logical) by default. However, you can still use the Joins interface (Physical). [Click Here](https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/data_model_singletable_joins.gif)
 
 ## Relationships
 Relationships are a dynamic, flexible way to combine data from multiple tables for analysis. You don’t define join types for relationships, so you won’t see a Venn diagram when you create them.
@@ -56,7 +56,7 @@ Joins are a more static way to combine data. Joins must be defined between physi
 - You can still specify joins between tables in the physical layer of a data source. Double-click a logical table to go to the Join/Union canvas in the physical layer and add joins or unions.
 - Every top-level, logical table contains at least one physical table. Open a logical table to view, edit or create joins between its physical tables. Right-click a logical table, and then click Open. Or, just double-click the table to open it.
 
-<a href="#new"><img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/data_model_singletable_joins.gif" alt="Joins in Newer Tableau"/></a>
+<img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/data_model_singletable_joins.gif" alt="Joins in Newer Tableau"/>
 
 
 - In the new data pane interface, the measures showing at the bottom of the table are the values relating to  multiple tables. Each value relating to a single table are shown in the table
