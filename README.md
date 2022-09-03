@@ -84,35 +84,35 @@ panes. So if you create a **calculated field involving multiple tables, it will 
         <details>
         <summary>Check Visual</summary>
 
-        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Relevant.PNG" alt="Relevant" />    
         </details>
 
         - Retain
         <details>
         <summary>Check Visual</summary>
 
-        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Retain.PNG" alt="Retain" />    
         </details>
 
         - Recover
         <details>
         <summary>Check Visual</summary>
 
-        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Recover.PNG" alt="Recover" />    
         </details>
-        - Represent
 
+        - Represent
         <details>
         <summary>Check Visual</summary>
 
-        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Represent.PNG" alt="Represent" />    
         </details>
 
         - Remove
         <details>
         <summary>Check Visual</summary>
 
-        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remove.PNG" alt="Remove" />    
         </details>
   
     - **Smart Aggregations:**
@@ -120,14 +120,14 @@ panes. So if you create a **calculated field involving multiple tables, it will 
         <details>
         <summary>Check Visual</summary>
 
-        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Replicate.PNG" alt="Replicate" />    
         </details>
 
         - Resolve
         <details>
         <summary>Check Visual</summary>
 
-        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Resolve.PNG" alt="Resolve" />    
         </details>
 
 
