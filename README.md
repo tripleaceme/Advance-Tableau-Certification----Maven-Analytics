@@ -10,7 +10,7 @@ Understanding your data and relations between them is as crucial to your analysi
 
     <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/data_model_layers_sm.png" alt="data_model_layers_sm"/>
 
-- In the newer versions of Tableau, you get the Relationship interface(Logical) by default. However, you can still use the Joins interface(Physical). **[Click Here]**(https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/data_model_singletable_joins.gif)
+- In the newer versions of Tableau, you get the Relationship interface(Logical) by default. However, you can still use the Joins interface(Physical). **[Click Here](https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/data_model_singletable_joins.gif)**
 
 
 ## Difference between Relationship and Joins:
@@ -76,50 +76,58 @@ panes. So if you create a **calculated field involving multiple tables, it will 
         - Remain
         <details>
         <summary>Check Visual</summary>
+
         <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />
         </details>
 
         - Relevant
         <details>
         <summary>Check Visual</summary>
-        
+
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
         </details>
 
         - Retain
         <details>
         <summary>Check Visual</summary>
-        
+
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
         </details>
 
         - Recover
         <details>
         <summary>Check Visual</summary>
-        
+
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
         </details>
         - Represent
 
         <details>
         <summary>Check Visual</summary>
-        
+
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
         </details>
 
         - Remove
         <details>
         <summary>Check Visual</summary>
-        
+
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
         </details>
-        
+  
     - **Smart Aggregations:**
         - Replicate
         <details>
         <summary>Check Visual</summary>
-        
+
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
         </details>
 
         - Resolve
         <details>
         <summary>Check Visual</summary>
-        
+
+        <img src="https://github.com/tripleaceme/Advance-Tableau-Certification----Maven-Analytics/blob/main/images/Remain.PNG" alt="Remain" />    
         </details>
 
 
